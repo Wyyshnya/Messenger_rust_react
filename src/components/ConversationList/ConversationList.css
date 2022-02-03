@@ -1,0 +1,10 @@
+.conversation-list {
+  display: flex;
+  flex-direction: column;
+  background: #35353D;
+}
+
+.buttons {
+  border: none;
+  background: #35353D;
+}
